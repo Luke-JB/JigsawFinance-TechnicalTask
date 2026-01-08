@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Luke\\Documents\\GitHub\\JigsawFinance-TechnicalTask\\JigsawFinance-TechnicalTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|c:\\users\\luke\\documents\\github\\jigsawfinance-technicaltask\\jigsawfinance-technicaltask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|c:\\users\\luke\\documents\\github\\jigsawfinance-technicaltask\\jigsawfinance-technicaltask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|c:\\users\\luke\\documents\\github\\jigsawfinance-technicaltask\\jigsawfinance-technicaltask\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|c:\\users\\luke\\documents\\github\\jigsawfinance-technicaltask\\jigsawfinance-technicaltask\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|c:\\users\\luke\\documents\\github\\jigsawfinance-technicaltask\\jigsawfinance-technicaltask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|c:\\users\\luke\\documents\\github\\jigsawfinance-technicaltask\\jigsawfinance-technicaltask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|c:\\users\\luke\\documents\\github\\jigsawfinance-technicaltask\\jigsawfinance-technicaltask\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|c:\\users\\luke\\documents\\github\\jigsawfinance-technicaltask\\jigsawfinance-technicaltask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|c:\\users\\luke\\documents\\github\\jigsawfinance-technicaltask\\jigsawfinance-technicaltask\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|c:\\users\\luke\\documents\\github\\jigsawfinance-technicaltask\\jigsawfinance-technicaltask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B18F921-8D86-4814-AA0A-6F3D319F307D}|JigsawFinance-TechnicalTask.csproj|c:\\users\\luke\\documents\\github\\jigsawfinance-technicaltask\\jigsawfinance-technicaltask\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\Luke\\Documents\\GitHub\\JigsawFinance-TechnicalTask\\JigsawFinance-TechnicalTask\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Luke\\Documents\\GitHub\\JigsawFinance-TechnicalTask\\JigsawFinance-TechnicalTask\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -84,25 +84,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T12:12:53.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T12:12:53.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Luke\\Documents\\GitHub\\JigsawFinance-TechnicalTask\\JigsawFinance-TechnicalTask\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\Luke\\Documents\\GitHub\\JigsawFinance-TechnicalTask\\JigsawFinance-TechnicalTask\\Services\\ProductService.cs",
               "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T12:11:49.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Luke\\Documents\\GitHub\\JigsawFinance-TechnicalTask\\JigsawFinance-TechnicalTask\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -121,7 +120,7 @@
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "C:\\Users\\Luke\\Documents\\GitHub\\JigsawFinance-TechnicalTask\\JigsawFinance-TechnicalTask\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T18:04:59.887Z",
               "EditorCaption": ""

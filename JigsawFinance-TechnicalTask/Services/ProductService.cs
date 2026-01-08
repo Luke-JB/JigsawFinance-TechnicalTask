@@ -20,9 +20,7 @@ namespace JigsawFinance_TechnicalTask.Services
                 response.EnsureSuccessStatusCode();
 
                 var content = await response.Content.ReadAsStringAsync();
-                var apiResponse = JsonSerializer.Deserialize<ApiResponse>(content, new JsonSerializerOptions { PropertyNameCaseInsensitive = true }
-);
-                //return JsonSerializer.Deserialize<PagedResponse<Product>>(content);
+                var apiResponse = JsonSerializer.Deserialize<ApiResponse>(content, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
 
                 if (apiResponse?.Products == null)
                 {
@@ -32,7 +30,7 @@ namespace JigsawFinance_TechnicalTask.Services
                 return new PagedResponse<Product>
                 {
                     Total = apiResponse.Total,
-                    Products = apiResponse.Products ?? new List<Product>() // Ensure it's not null
+                    Products = apiResponse.Products ?? new List<Product>()
                 };
             }
             catch (Exception ex)
