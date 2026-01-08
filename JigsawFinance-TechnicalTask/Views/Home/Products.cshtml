@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Products";
+}
+@model JigsawFinance_TechnicalTask.Models.ProductDetails
+<h1>@ViewData["Title"]</h1>
+
+<h2>@Model.Title</h2>
+<img src="@Model.Thumbnail" alt="@Model.Title" width="200">
+<p><strong>Price:</strong> @Model.Price</p>
+<p><strong>Description:</strong> @Model.Description</p>
+<p><strong>Shipping Info:</strong> @Model.ShippingInformation</p>
+<p><strong>Tags:</strong> @string.Join(", ", Model.Tags)</p>

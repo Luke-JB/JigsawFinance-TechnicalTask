@@ -1,3 +1,5 @@
+using JigsawFinance_TechnicalTask.Services;
+
 namespace JigsawFinance_TechnicalTask
 {
     public class Program
@@ -7,6 +9,7 @@ namespace JigsawFinance_TechnicalTask
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            builder.Services.AddHttpClient<ProductService>();
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();

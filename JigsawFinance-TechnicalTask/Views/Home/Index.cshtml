@@ -1,8 +1,51 @@
-﻿@{
+﻿@model IEnumerable<JigsawFinance_TechnicalTask.Models.Product>
+@{
     ViewData["Title"] = "Home Page";
+    var totalPages = ViewBag.TotalPages;
+    var currentPage = ViewBag.CurrentPage;
 }
+@if (Model == null)
+{
+    <p>Error fetching products.</p>
+}
+else
+{
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Image</th>
+                <th>Title</th>
+                <th>Price</th>
+                <th>Tags</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td><img src="@product.Thumbnail" alt="@product.Title" width="50" height="50"></td>
+                    <td><a href="@Url.Action("Details", "Product", new { id = product.Id })">@product.Title</a></td>
+                    <td>@product.Price</td>
+                    <td>@string.Join(", ", product.Tags)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+    <div>
+        @if (currentPage > 1)
+        {
+            <a href="@Url.Action("Index", "Product", new { page = currentPage - 1 })">Previous</a>
+        }
+
+        Page @currentPage of @totalPages
+
+        @if (currentPage < totalPages)
+        {
+            <a href="@Url.Action("Index", "Product", new { page = currentPage + 1 })">Next</a>
+        }
+    </div>
+}

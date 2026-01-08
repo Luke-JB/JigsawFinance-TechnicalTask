@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JigsawFinance-TechnicalTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c872213d6a5a676dbffbbf1d8fced0773d666c07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0701da2ad54c658d07982ee031abdcbb5ad84ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("JigsawFinance-TechnicalTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JigsawFinance-TechnicalTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
